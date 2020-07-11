@@ -8,7 +8,7 @@ them.
 
 1. Read carefully an introductory python book. 
    - To some of you, I already recommened "Think Python: How to Think like a computer scientist"
-   Vist greenteapress.com/thinkpython2/html/index.html and you will find a free pdf version.
+   Vist https://greenteapress.com/thinkpython2/html/index.html and you will find a free pdf version.
    The author Allen B. Downey wrote many good books including this one.
 1. Anaconda
    - https://docs.anaconda.com/anaconda/install/
