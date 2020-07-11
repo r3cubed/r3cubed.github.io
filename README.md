@@ -1,4 +1,54 @@
-### Hi there 👋
+## Hi there 👋
+Welcome to Python and Data Science 
+
+1. Anaconda
+   - https://docs.anaconda.com/anaconda/install/
+   - Please install anaconda and download/install packages as needed.
+   - Make yourself familiar with the package management.
+   - Annaconda includes Ipython and man
+1. Jupyter notebook
+   In your anaconda, jupyter notebook can be installed.
+1. For any questions on programming and tools
+   https://stackoverflow.com/
+1. Github: you are here.
+
+
+# Online courses
+Basic and intermediate online courses
+* Introduction to Python for Data Science
+* Coursera Deep Learning Specialization
+
+Advanced online courses
+* EDX Deep Learning with Python and PyTorch 
+* EDX Natural Language Processing
+* Coursera Reinforcement Learning Specialization
+* Coursera Sequence Models for Time Series and Natural Language Processing
+
+Before meetings, group members do
+* read one or two chapters in our python programming textbook
+* watch online lectures on EDX and/or Coursera on their own
+* understand and practice previous session's examples
+
+Our python programming materials are
+* https://greenteapress.com/wp/think-python-2e/
+* https://www.learnpython.org/
+
+Textbooks for machine learning are
+* Hands-on machine learning with Scikit-learn, Keras & Tensorflow by Aurélien Géron
+* Natural language processing with PyTorch by Delip Rao
+* Generateive Deep learning by David Foster
+
+We are following pytorch tutorials in 
+* https://pytorch.org/tutorials/
+
+For keras, please refer to
+* https://keras.io/
+
+Pytorch examples are 
+* https://github.com/pytorch/examples/
+
+
+
 
 <!--
 **r3cubed/r3cubed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
