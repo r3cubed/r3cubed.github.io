@@ -1,6 +1,15 @@
-## Hi there 👋
-Welcome to Python and Data Science 
+## Welcome to Python and Data Science Study Group 👋
 
+Thank you for your interests and enthusiasm which I didn't expect. 
+Our regular meeting will start in August with prayers and careful planning.
+Please pay attention to the annoucements from our organizational committee.
+Before we start our meetings, please try the following things, making yourself familiar with 
+them.
+
+1. Read carefully an introductory python book. 
+   To some of you, I already recommened "Think Python: How to Think like a computer scientist"
+   Vist greenteapress.com/thinkpython2/html/index.html and you will find a free pdf version.
+   The author Allen B. Downey wrote many good books including this one.
 1. Anaconda
    - https://docs.anaconda.com/anaconda/install/
    - Please install anaconda and download/install packages as needed.
