@@ -7,7 +7,7 @@ Before we start our meetings, please try the following things, making yourself f
 them.
 
 1. Read carefully an introductory python book. 
-   To some of you, I already recommened "Think Python: How to Think like a computer scientist"
+   - To some of you, I already recommened "Think Python: How to Think like a computer scientist"
    Vist greenteapress.com/thinkpython2/html/index.html and you will find a free pdf version.
    The author Allen B. Downey wrote many good books including this one.
 1. Anaconda
@@ -16,9 +16,9 @@ them.
    - Make yourself familiar with the package management.
    - Annaconda includes Ipython and man
 1. Jupyter notebook
-   In your anaconda, jupyter notebook can be installed.
+   - In your anaconda, jupyter notebook can be installed.
 1. For any questions on programming and tools
-   https://stackoverflow.com/
+   - https://stackoverflow.com/
 1. Github: you are here.
 
 
