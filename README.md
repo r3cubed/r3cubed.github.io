@@ -1,3 +1,22 @@
+
+## Research Mind Programs 
+***
+
+## 2021 Winter RM Camp
+### Research Topics:
+1. Who is the best doctor?
+2. Lake conundrum and the puppet masters 
+
+***
+
+### Format
+- Zoom meeting from 9 am until 8 pm
+- Independent research
+- Team discussions and presentation
+
+
+[Please check this year's program](../../wiki)
+
 ## Welcome to Python and Data Science Study Group 👋
 
 Thank you for your interests and enthusiasm which I didn't expect. 
