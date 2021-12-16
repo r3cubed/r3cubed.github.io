@@ -14,7 +14,7 @@
 - Zoom meeting from 9 am until 8 pm
 - Independent research
 - Team discussions and presentation
-- [Daily schedule](https://github.com/r3cubed/r3cubed.github.io/wiki)
+- [Daily schedule](https://github.com/r3cubed/r3cubed.github.io/wiki/2021-Research-Mind-Short-Term-Programs)
 
 
 <!--
