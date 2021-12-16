@@ -4,9 +4,9 @@
 
 ## 2021 Winter RM Camp
 ### Research Topics:
-1. Who is the best doctor?
-2. Lake conundrum and who should be blamed?
-3. Who is the puppet master? 
+1. Who is the best doctor among three?
+2. Lake conundrum and who should be blamed? 
+3. Are there puppet masters out there? 
 
 ***
 
