@@ -17,7 +17,7 @@
 
 [Please check this year's program](../../wiki)
 
-## Welcome to Python and Data Science Study Group 👋
+## Python and Data Science Study Group 👋
 
 Thank you for your interests and enthusiasm which I didn't expect. 
 Our regular meeting will start in August with prayers and careful planning.
