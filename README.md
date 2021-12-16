@@ -1,5 +1,5 @@
 
-## Research Mind Programs 
+# Research Mind Programs 
 ***
 
 ## 2021 Winter RM Camp
@@ -13,11 +13,9 @@
 - Zoom meeting from 9 am until 8 pm
 - Independent research
 - Team discussions and presentation
+- [Daily schedule](https://github.com/r3cubed/r3cubed.github.io/wiki)
 
-
-[Please check this year's program](../../wiki)
-
-## Python and Data Science Study Group 👋
+# Python and Data Science Study Group 👋
 
 Thank you for your interests and enthusiasm which I didn't expect. 
 Our regular meeting will start in August with prayers and careful planning.
