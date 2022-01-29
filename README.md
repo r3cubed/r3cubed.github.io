@@ -6,7 +6,9 @@
 
 Thank you, young participants, for the enthusiasm and the focus you have shown throughout the program.
 Many of you wanted to do more and longer. Instead of two days, 4-5 days. Instead of 10am to 5 pm, 9 am to 8 pm.
+I hear it and I am glad you enjoyed!
 So I'll do my best to have a longer program, at least 4 days in the coming years.  
+
 Dear parents, thank you for your support for two days and honoring the harsh schedule. 
 Please be proud of the kids who finished the camp and who produced the high quality presentations.
 I hope and pray that we help them discover their best and full potentials in them with right materials and right questions.
