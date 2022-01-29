@@ -5,8 +5,8 @@
 ## 2021 Winter RM Camp
 
 Thank you, young participants, for the enthusiasm and the focus you have shown throughout the program.
-Many of you wanted to do more and longer. Instead of two days, 4-5 days. Instead of 10am to 5 pm, 9 am to 8 pm.
-I hear it and I am glad you enjoyed!
+Many of you wanted to do more and longer. Instead of two days, 4-5 days. Instead of 10 am to 5 pm, 9 am to 8 pm.
+I hear it and I am glad you enjoyed! Please accept my apology that we had to shorten the schedule because of the pandemic. 
 So I'll do my best to have a longer program, at least 4 days in the coming years.  
 
 Dear parents, thank you for your support for two days and honoring the harsh schedule. 
