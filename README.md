@@ -3,10 +3,10 @@
 
 
 ## 2024 Winter Camp
-[Law and Mathematics, Lincoln of Geometry](https://github.com/r3cubed/r3cubed.github.io/wiki/2024-Winter-Camp#2024-winter-rm-camp)
+[Mathematics, Law, Policitics](https://github.com/r3cubed/r3cubed.github.io/wiki/2024-Winter-Camp#2024-winter-rm-camp)
 
 ## 2022 Winter Camp
-
+[South Pole Expedition, Mars Project, and Life](https://github.com/r3cubed/r3cubed.github.io/wiki/2024-Winter-Camp#2024-winter-rm-camp)
 
 <!--
 **r3cubed/r3cubed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
